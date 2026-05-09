@@ -1,4 +1,4 @@
-cask "launchpadconfigextractor" do
+cask "launchpadconfigurationextractor" do
   
   # Die Version des Builds
   version "1.0.0"
